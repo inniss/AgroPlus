@@ -252,6 +252,7 @@ header .main-header .nav-menu li a:hover {
 	}
 	.sidebar ul li a {
 		background: none;
+		padding: 0;
 	}
 }
 /*----------------------------------------------------------------------------------*/
